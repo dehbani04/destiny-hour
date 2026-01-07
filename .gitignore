@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Node / Python (safe defaults)
+node_modules/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+.idea/
