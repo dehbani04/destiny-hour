@@ -47,7 +47,55 @@ To maintain quality and trust, please ensure that:
 - No copyrighted or stolen material is added
 - All contributions comply with GitHub Community Standards
 
+---/
+3. Make your changes with clear commits
+4. Commit with a meaningful message
+5. Open a Pull Request explaining:
+- What you changed
+- Why it improves Destiny Hour
+
 ---
+
+## 📜 License & Legal Notice
+
+By contributing to this repository, you agree that your contributions will be
+licensed under the **MIT License**.
+
+This ensures open collaboration while protecting contributors and the project.
+
+---
+
+## 🙏 Community Conduct
+
+Destiny Hour is built on:
+- Respect
+- Encouragement
+- Growth
+- Integrity
+
+Please avoid:
+- Hate speech
+- Harassment
+- Religious or ideological conflict
+- Promotional spam
+
+Let us build something that **uplifts and inspires**.
+
+---
+
+## 👤 Project Owner
+
+**Thomas Destiny**  
+Founder & Creator – Destiny Hour  
+Faith-Based Motivation & Encouragement Platform  
+
+📺 YouTube: https://www.youtube.com/@Destiny_hour
+
+---
+
+Thank you for contributing to **Destiny Hour**  
+Together, we inspire purpose, hope, and resilience 🌍✨
+
 
 ## 🛠️ How to Contribute (Step-by-Step)
 
