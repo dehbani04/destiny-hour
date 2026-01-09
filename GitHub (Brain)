@@ -1,41 +1,14 @@
-Title formulas
+/seo
+  keyword-map.md
+  youtube-tags.md
 
-Hook templates
+/content
+  title-formulas.md
+  shorts-hooks.md
+  long-video-outline.md
 
-Description templates
+/community
+  post-templates.md
 
-Caption systems
-
-Content calendar
-
-(/titles
-/hooks
-/descriptions
-/thumbnails
-/calendar)
-
-Google Docs / Sheets
-
-Notion
-
-Simple scripts later (Python / Node)
-
-Workflow:
-
-Pick a theme → auto-generate titles → paste into YouTube
-
-Copy from GitHub
-
-Upload consistently
-
-Same structure every time
-
-📈 Result:
-
-Faster posting
-
-Consistency
-
-Algorithm trust
-
-Brand authority
+/calendar
+  30-day-plan.md
