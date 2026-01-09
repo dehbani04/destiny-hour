@@ -1,3 +1,5 @@
+IDEA → SEO BRAIN (GitHub) → CONTENT OUTPUT → YOUTUBE → FEEDBACK → IMPROVE
+
 You are not late. You are being prepared.
 ❤️ Like if this encourages you.
 
