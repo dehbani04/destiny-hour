@@ -45,7 +45,23 @@ This repository supports:
 - Content systems
 - Automation tools
 - Scripts & templates
-- Open resources for faith & motivation creators
+-  Open resources for faith & motivation creators
+- 
+## 🔍 Search & Discovery
+
+Destiny Hour focuses on faith-based motivation, encouragement, and purpose-driven
+content designed to uplift and inspire people globally.
+
+This repository supports:
+- YouTube SEO strategies
+- Motivational content systems
+- Faith-based media workflows
+- Open-source creator tools
+- Long-term audience growth
+
+Keywords:
+destiny hour, faith motivation, encouragement videos, youtube seo,
+inspirational content, spiritual growth, hope, purpose
 
 ---
 
